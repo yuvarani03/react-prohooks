@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@okta/okta-react": "3.0.4",
-    "react-router-dom": "5.2.0"
-  }
-}
